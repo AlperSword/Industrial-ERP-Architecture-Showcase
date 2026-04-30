@@ -8,6 +8,9 @@
 **Industrial-ERP-System**, endüstriyel üretim ve stok yönetimi süreçlerini dijitalleştirmek amacıyla geliştirilmiş, Full-Stack bir kurumsal kaynak planlama (ERP) çözümüdür. Özellikle **IntekMarin** operasyonları için özelleştirilmiş, dokunmatik terminallerle tam uyumlu bir kullanıcı deneyimi sunar.
 
 ---
+> ⚠️ **VERİ GİZLİLİĞİ VE GÜVENLİK NOTU**
+> Bu vitrin reposunda ve sistem ekran görüntülerinde yer alan tüm ürünler, stok miktarları, müşteri cari bilgileri ve finansal değerler, sistemin yeteneklerini sergilemek amacıyla yerel ortamda (localhost) rastgele oluşturulmuş **test (mock/dummy) verileridir**. Sistemde yer alan hiçbir bilgi, Intek Marin firmasının gerçek ticari faaliyetlerini, envanterini veya gizli finansal verilerini **yansıtmamaktadır.**
+
 
 ## 🏗️ Sistem Mimarisi
 
