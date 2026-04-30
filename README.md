@@ -30,6 +30,37 @@ Proje, modern yazılım prensipleri ve DevOps pratikleri üzerine inşa edilmiş
 
 ---
 
+## 📸 Sistem Ekranları (UI Showcase)
+
+### 🔐 Login ve Erişim
+![Login Ekranı](./images/login.png)
+
+### 📊 Dashboard ve Raporlama Merkezi
+![Dashboard Ekranı](./images/dashboard.png)
+![Raporlar](./images/reports.png)
+
+### 📦 Envanter ve Stok Yönetimi
+![Envanter](./images/inventory.png)
+![Yeni Ürün Ekleme](./images/addproduct.png)
+
+### 💳 Müşteri (Cari) Takip Sistemi
+![Müşteriler](./images/customer.png)
+![Müşteri Detay](./images/customerdetail.png)
+![Yeni Müşteri Ekleme](./images/addcustomer.png)
+
+### 🛒 Satış ve Teklif İşlemleri
+![Hızlı Satış](./images/sales.png)
+![Satış Geçmişi](./images/saleshistory.png)
+![Teklif Hazırlama](./images/quotation.png)
+![Teklif Arşivi](./images/quotationarchive.png)
+![Teklif PDF Çıktısı](./images/quotationpdf.png)
+
+### 🖨️ Barkod Sistemi & 📲 WhatsApp Uyarıları
+![Barkod Çıktısı](./images/barcode.png)
+![WhatsApp Uyarı Sistemi](./images/whatsappalert.png)
+
+---
+
 ## 🛠️ Teknoloji Yığını (Stack)
 
 ### Backend
@@ -61,10 +92,13 @@ Projenin yerel ortamda veya sunucuda çalıştırılması için Docker kurulu ol
 ```bash
 docker-compose up -d --build
 
+
+
+
 👨‍💻 Geliştirici
 İsim: Alper
 
-Pozisyon: COMPUTER PROGRAMMING STUDENT (Senior)
+Pozisyon: Computer Programming Student (Senior)
 
 Mezuniyet: Haziran 2026
 
